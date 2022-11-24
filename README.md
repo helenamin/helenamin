@@ -1,9 +1,11 @@
 ### Hi there 👋
 
+I'm a data engineer with a background of Software engineering. Currently living in Perth Australia
+
 <!--
 **helenamin/helenamin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-I'm a data engineer with a background of Software engineering. Currently living in Perth Australia
+
 
 Here are some ideas to get you started:
 
